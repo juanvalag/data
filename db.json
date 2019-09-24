@@ -1,0 +1,111 @@
+{
+  "person1": {
+    "id": "0001",
+    "name": "Luis",
+    "last_name": "Valencia",
+    "phone": "3203421234",
+    "favorite_sports": [
+      "football",
+      "baseball"
+    ]
+  }
+  
+  "person2": {
+    "id": "0002",
+    "name": "Andres",
+    "last_name": "Cordoba",
+    "phone": "3202421234",
+    "favorite_sports": [
+      "tenis",
+      "swimming",
+      "rugby"
+    ]
+  }
+  
+   "person3": {
+    "id": "0003",
+    "name": "Felipe",
+    "last_name": "Ramirez",
+    "phone": "3202421234",
+    "favorite_sports": [
+      "tenis",
+      "swimming",
+      "rugby"
+    ]
+  }
+   "person4": {
+    "id": "0004",
+    "name": "Paquito",
+    "last_name": "Barrios",
+    "phone": "3202421234",
+    "favorite_sports": [
+      "tenis",
+      "swimming",
+      "rugby"
+    ]
+  }
+  
+   "person5": {
+    "id": "0005",
+    "name": "Manuel",
+    "last_name": "Ramirez",
+    "phone": "3202421234",
+    "favorite_sports": [
+      "tenis",
+      "rugby"
+    ]
+  }
+  
+   "person6": {
+    "id": "0006",
+    "name": "Santiago",
+    "last_name": "Mirador",
+    "phone": "3203421234",
+    "favorite_sports": [
+      "football",
+      "baseball"
+    ]
+  }
+  
+  "person7": {
+    "id": "0007",
+    "name": "Cesar",
+    "last_name": "Amador",
+    "phone": "3202421234",
+    "favorite_sports": [
+      "tenis",
+      "swimming",
+      "rugby"
+    ]
+  }
+  
+   "person8": {
+    "id": "0008",
+    "name": "Enrique",
+    "last_name": "Ramirez",
+    "phone": "3202421234",
+    "favorite_sports": [
+      "tenis"
+    ]
+  }
+  
+   "person9": {
+    "id": "0009",
+    "name": "Luis",
+    "last_name": "Medina",
+    "phone": "3202421234",
+    "favorite_sports": [
+      "rugby"
+    ]
+  }
+  
+   "person10": {
+    "id": "0010",
+    "name": "Manuel",
+    "last_name": "Muñoz",
+    "phone": "3202421234",
+    "favorite_sports": [
+      "rugby"
+    ]
+  }
+}
