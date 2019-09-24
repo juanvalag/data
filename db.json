@@ -1,5 +1,5 @@
 {
-  ["person1": {
+  "person1": {
     "id": "0001",
     "name": "Luis",
     "last_name": "Valencia",
@@ -107,5 +107,5 @@
     "favorite_sports": [
       "rugby"
     ]
-  }]
+  }
 }
