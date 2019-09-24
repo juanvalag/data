@@ -8,7 +8,7 @@
       "football",
       "baseball"
     ]
-  }
+  },
   
   "person2": {
     "id": "0002",
@@ -20,7 +20,7 @@
       "swimming",
       "rugby"
     ]
-  }
+  },
   
    "person3": {
     "id": "0003",
@@ -32,7 +32,7 @@
       "swimming",
       "rugby"
     ]
-  }
+  },
    "person4": {
     "id": "0004",
     "name": "Paquito",
@@ -43,7 +43,7 @@
       "swimming",
       "rugby"
     ]
-  }
+  },
   
    "person5": {
     "id": "0005",
@@ -54,7 +54,7 @@
       "tenis",
       "rugby"
     ]
-  }
+  },
   
    "person6": {
     "id": "0006",
@@ -65,7 +65,7 @@
       "football",
       "baseball"
     ]
-  }
+  },
   
   "person7": {
     "id": "0007",
@@ -77,7 +77,7 @@
       "swimming",
       "rugby"
     ]
-  }
+  },
   
    "person8": {
     "id": "0008",
@@ -87,7 +87,7 @@
     "favorite_sports": [
       "tenis"
     ]
-  }
+  },
   
    "person9": {
     "id": "0009",
@@ -97,7 +97,7 @@
     "favorite_sports": [
       "rugby"
     ]
-  }
+  },
   
    "person10": {
     "id": "0010",
