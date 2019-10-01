@@ -1,65 +1,76 @@
 {
-  "persons":[ {
-    "id": "0001",
+  "users":[ {
+    "username": "lui23",
     "name": "Luis",
-    "phone": "3203421234"
+    "mail": "lui23@gmail.com",
+   "pass": "1234",
+   "img":"person.png"
   },{
-    "id": "0002",
-    "name": "Andres",
-    "last_name": "Cordoba",
-    "phone": "3202421234"
+    "username": "migue12",
+    "name": "Miguel",
+    "mail": "migue12@gmail.com",
+   "pass": "4321",
+   "img":"person.png"
   }, {
-    "id": "0003",
-    "name": "Felipe",
-    "last_name": "Ramirez",
-    "phone": "3202421234"
+    "username": "andres32",
+    "name": "Andrés",
+    "mail": "andres32@gmail.com",
+   "pass": "1234",
+   "img":"person.png"
   }, {
-    "id": "0004",
-    "name": "Paquito",
-    "last_name": "Barrios",
-    "phone": "3202421234"
+    "username": "enrique2",
+    "name": "Enrique Martinez",
+    "mail": "enrique2@gmail.com",
+   "pass": "4321",
+   "img":"person.png"
   },
   
    {
-    "id": "0005",
-    "name": "Manuel",
-    "last_name": "Ramirez",
-    "phone": "3202421234"
+    "username": "Carl32",
+    "name": "Carlos Medina",
+    "mail": "Carl32@gmail.com",
+   "pass": "1234",
+   "img":"person.png"
   },
   {
-    "id": "0006",
-    "name": "Santiago",
-    "last_name": "Mirador",
-    "phone": "3203421234"
+    "username": "Leo43",
+    "name": "Leonardo Rojas",
+    "mail": "Leo43@gmail.com",
+   "pass": "4321",
+   "img":"person.png"
   },
   
  {
-    "id": "0007",
-    "name": "Cesar",
-    "last_name": "Amador",
-    "phone": "3202421234"
+     "username": "luisa43",
+    "name": "Luisa Medina",
+    "mail": "luisa43@gmail.com",
+   "pass": "1234",
+   "img":"person.png"
   },
   
   {
-    "id": "0008",
-    "name": "Enrique",
-    "last_name": "Ramirez",
-    "phone": "3202421234"
+    "username": "nidy12",
+    "name": "Nidia",
+    "mail": "nidy12@gmail.com",
+   "pass": "4321",
+   "img":"person.png"
    
   },
   
    {
-    "id": "0009",
-    "name": "Luis",
-    "last_name": "Medina",
-    "phone": "3202421234"
+    "username": "ali45",
+    "name": "Alicia",
+    "mail": "ali45@gmail.com",
+   "pass": "1234",
+   "img":"person.png"
    
   },
   
     {
-    "id": "0010",
-    "name": "Manuel",
-    "last_name": "Muñoz",
-    "phone": "3202421234"
+    "username": "lucre21",
+    "name": "Lucrecia",
+    "mail": "lucre21@gmail.com",
+   "pass": "4321",
+   "img":"person.png"
   }]
 }
